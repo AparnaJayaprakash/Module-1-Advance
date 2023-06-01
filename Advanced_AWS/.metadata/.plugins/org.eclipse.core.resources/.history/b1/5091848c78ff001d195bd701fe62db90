@@ -1,0 +1,5 @@
+package awslambda.lambda;
+
+public class HelloLambda {
+
+}

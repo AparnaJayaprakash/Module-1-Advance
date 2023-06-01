@@ -13,7 +13,7 @@ public class PurchaseOrderConsumer {
 	
 	
 	@Value("${ust.rabbitmq.queue}")
-	String queue;
+	String ust_queue;
 	
 	@RabbitListener(queues = "ust_queue")
 	public void consumeMessageFromQueue(OrderStatus orderStatus) {

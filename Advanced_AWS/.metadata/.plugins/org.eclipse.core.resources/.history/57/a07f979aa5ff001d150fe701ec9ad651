@@ -1,0 +1,6 @@
+server.port=8093
+app.server.name=testprofile
+app.server.detail=test profile
+
+application.name= This is a demo for spring test profile
+

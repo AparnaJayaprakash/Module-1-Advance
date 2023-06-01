@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Adv AWS\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+317757257.index
+2656904053.index

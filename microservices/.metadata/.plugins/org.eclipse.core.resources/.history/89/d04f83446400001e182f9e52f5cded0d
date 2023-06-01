@@ -1,0 +1,5 @@
+serever.port=8090
+
+#ust.rabbitmq.exchange=ust_exchange
+ust.rabbitmq.queue=ust_queue
+#ust.rabbitmq.routingkey=ust_routingkey

@@ -1,0 +1,11 @@
+package awslambda.lambda;
+
+public class HelloLambda {
+	
+	public String hello() {
+		return "Hello lambdaa....";
+	}
+	
+	
+
+}
