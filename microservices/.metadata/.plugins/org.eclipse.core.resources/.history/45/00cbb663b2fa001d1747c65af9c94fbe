@@ -1,0 +1,5 @@
+package com.example.bootdocker;
+
+public class Welcome {
+
+}

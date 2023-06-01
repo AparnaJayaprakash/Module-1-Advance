@@ -1,0 +1,11 @@
+package com.example.sleuthc.resources;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+public class SleuthClient {
+	
+	private static final Logger logger = LoggerFactory.getLogger(SleuthClient.class);
+	
+
+}

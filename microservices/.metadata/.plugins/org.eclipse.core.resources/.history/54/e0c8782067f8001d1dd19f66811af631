@@ -1,0 +1,5 @@
+package com.example.rabbit.config;
+
+public class MessagingConfig {
+
+}

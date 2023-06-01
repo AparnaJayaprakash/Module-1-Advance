@@ -1,0 +1,5 @@
+package com.example.billingservice.resources;
+
+public class BillingServiceResource {
+
+}

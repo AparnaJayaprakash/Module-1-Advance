@@ -1,0 +1,5 @@
+package com.example.sleuthc.resources;
+
+public class SleuthClient {
+
+}

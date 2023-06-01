@@ -1,0 +1,5 @@
+package com.example.rabbit.model;
+
+public class OrderStatus {
+
+}

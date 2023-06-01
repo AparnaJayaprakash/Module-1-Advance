@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.sql.DataSource"/>
+    <fullyQualifiedTypeName name="com.example.security.MyUserDetailsService"/>
+    <fullyQualifiedTypeName name="com.example.security.model.AuthenticationRequest"/>
+    <fullyQualifiedTypeName name="com.example.security.model.AuthenticationResponse"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.security.oauth2.client.EnableOAuth2Sso"/>
+    <fullyQualifiedTypeName name="com.example.security.util.JwtUtil"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="com.example.security.repo.UserRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.UserDetails"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="com.example.security.model.User"/>
+    <fullyQualifiedTypeName name="com.example.security.model.MyUserDetails"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.UsernameNotFoundException"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.UserDetailsService"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+</qualifiedTypeNameHistroy>

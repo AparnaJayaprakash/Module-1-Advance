@@ -1,0 +1,5 @@
+package com.example.security.resource;
+
+public class EmployeeResource {
+
+}

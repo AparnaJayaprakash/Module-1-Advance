@@ -1,0 +1,13 @@
+package com.example.sleuthc;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SleuthclientApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SleuthclientApplication.class, args);
+	}
+
+}
